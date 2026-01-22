@@ -9,7 +9,7 @@ From product thinking to performance-driven, scalable web systems
 
 Full-stack developer with experience across freelancing, internships, and independent product development. Graduated in 2024 with a BBA-CA degree (SPPU affiliated) and have worked on real-world web applications involving authentication, data-heavy workflows, and performance-sensitive systems.
 
-Strong focus on system design, clean architecture, and scalability. Comfortable working end-to-end — from translating product requirements into technical designs to delivering production-ready frontend and backend solutions.
+Strong focus on system design, clean architecture, and scalability. Comfortable working end-to-end  from translating product requirements into technical designs to delivering production-ready frontend and backend solutions.
 
 ---
 
